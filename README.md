@@ -14,3 +14,8 @@ The most prominent corporate adopter was the Eastman Kodak Company, which offici
 Throughout the 1920s and early 1930s, the movement nearly became US law:
 • Congressional Proposals: Multiple joint resolutions were introduced in the US House of Representatives calling for an international conference to officially adopt the 13-month calendar.
 • The International Fixed Calendar League: Backed by George Eastman's funding, the league opened its US headquarters right out of Rochester, New York, to lobby the government and global bodies.
+
+
+# Eclipse counting Year system
+<img width="1000" height="771" alt="image" src="https://github.com/user-attachments/assets/00a58d26-57ac-4314-9e62-5a76982eb16f" />
+

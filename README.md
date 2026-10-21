@@ -21,11 +21,11 @@ Throughout the 1920s and early 1930s, the movement nearly became US law:
 
 
 
-## Saros Cycle:
+## Saros Cycle (18 years, 11 days):
 An identical geometry repeats every 18 years, 11 days, and 8 hours = one generation 120 dergee
 
 ## Exeligmos Cycle (54 years, 33 days): 
 Multiplying that extra 1/3 day by three gives you a full 24 hours. Because it equals nearly a perfect integer number of days, the Earth completes three full rotations. This resets the clock, meaning the eclipse returns to nearly the exact same geographic region 360degree = human life span
 
-## Eclipse total life span
+## Eclipse lifeSpan (360 to 410 years):
 A total solar eclipse takes an average of 360 to 410 years = one dynasty

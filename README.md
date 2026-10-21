@@ -17,5 +17,10 @@ Throughout the 1920s and early 1930s, the movement nearly became US law:
 
 
 # Eclipse counting Year system
-<img width="1000" height="771" alt="image" src="https://github.com/user-attachments/assets/00a58d26-57ac-4314-9e62-5a76982eb16f" />
+<img width="513" height="594" alt="053-15fh6" src="https://github.com/user-attachments/assets/76b88ee5-9ca2-400a-9a32-7d8709b95042" />
 
+
+
+Saros Cycle: An identical geometry repeats every 18 years, 11 days, and 8 hours = one generation
+
+A total solar eclipse takes an average of 360 to 410 years = one dynasty

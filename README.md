@@ -16,7 +16,7 @@ Throughout the 1920s and early 1930s, the movement nearly became US law:
 • The International Fixed Calendar League: Backed by George Eastman's funding, the league opened its US headquarters right out of Rochester, New York, to lobby the government and global bodies.
 
 
-# Eclipse counting Year system
+# Eclipse(Moon) counting Year system (月歴)
 <img width="513" height="594" alt="053-15fh6" src="https://github.com/user-attachments/assets/76b88ee5-9ca2-400a-9a32-7d8709b95042" />
 
 

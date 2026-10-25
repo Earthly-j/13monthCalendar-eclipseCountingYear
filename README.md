@@ -24,6 +24,11 @@ Throughout the 1920s and early 1930s, the movement nearly became US law:
 ## Saros Cycle (18 years, 11 days):
 An identical geometry repeats every 18 years, 11 days, and 8 hours = one generation 120 dergee
 
+
+
+## Exeligmos Cycle (54 years, 33 days): 
+Multiplying that extra 1/3 day by three gives you a full 24 hours. Because it equals nearly a perfect integer number of days, the Earth completes three full rotations. This resets the clock, meaning the eclipse returns to nearly the exact same geographic region 360degree = human life span (before 1900s)
+
 Conditional on reaching 18, the averages are close enough that you can't really call it a difference in adult longevity at all:
 
 | Group (survivors to 18) | Average age at death |
@@ -35,9 +40,6 @@ Conditional on reaching 18, the averages are close enough that you can't really 
 | **Modern wealthy countries** | ~80+ |
 
 So foragers sit right in the middle of the pre-industrial farming range, and *above* Rome and medieval England. Agriculture didn't buy adults extra years; the 10,000-year plateau was a plateau for everyone.
-
-## Exeligmos Cycle (54 years, 33 days): 
-Multiplying that extra 1/3 day by three gives you a full 24 hours. Because it equals nearly a perfect integer number of days, the Earth completes three full rotations. This resets the clock, meaning the eclipse returns to nearly the exact same geographic region 360degree = human life span
 
 ## Eclipse lifeSpan (360 to 410 years):
 A total solar eclipse takes an average of 360 to 410 years = one dynasty

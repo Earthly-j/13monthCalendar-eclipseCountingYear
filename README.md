@@ -43,3 +43,16 @@ So foragers sit right in the middle of the pre-industrial farming range, and *ab
 
 ## Eclipse lifeSpan (360 to 410 years):
 A total solar eclipse takes an average of 360 to 410 years = one dynasty
+
+
+• 300 Years: Speakers can usually understand the text or speech with some effort (e.g., modern English speakers reading Shakespeare from the 1600s).
+• 500 Years: Comprehension drops significantly. Grammar structures shift, and vocabulary changes (e.g., Middle Korean to Modern Korean, or Middle English to Modern English).
+> averagely 400 year to what i use language can be understand ? (after that someone need to translate that)
+>
+> 	Length	Nature
+Gregorian leap cycle	exactly 400 years = 146,097 days, 97 leap days	Calendar arithmetic — the rule that keeps the date aligned with the tropical year 10
+>
+> ne full phase: unified era or分裂 era	~350 ± 50 yrs 1	Mean of the nine periods in the standard periodisation
+>
+> Solar activity (¹⁴C, ¹⁰Be proxies)	300–400 yr	Statistically significant tri-centennial band in both series 6
+Interior North America wet–dry oscillation	~400 yr, correlated with atmospheric ¹⁴C	Proposed solar forcing 1

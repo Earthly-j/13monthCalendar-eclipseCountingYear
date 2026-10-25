@@ -1,4 +1,4 @@
-# Sun counting system  13-month-calendar (暦　koyomi)
+# Sun counting system  13-month-calendar (日暦)
  Middle English kalender, from Old French calendier, from Latin calendarium (“account book”)
  
 ## 13month calendar actively try to use by US before and during WW2 ?

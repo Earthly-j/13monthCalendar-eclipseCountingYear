@@ -1,5 +1,6 @@
-# 13-month-calendar
-
+# 13-month-calendar (暦　koyomi)
+ Middle English kalender, from Old French calendier, from Latin calendarium (“account book”)
+ 
 ## 13month calendar actively try to use by US before and during WW2 ?
 Yes, a 13-month calendar was actively used internally by major US businesses, and there was a massive push to adopt it nationwide just before World War II.
 Known as the International Fixed Calendar (or the Cotsworth Plan), this system divided the year into 13 identical months of exactly 28 days each, totaling 364 days. The extra month, called "Sol," was placed between June and July. To reach 365 days, a blank "Year Day" holiday was added at the very end of the year outside of any week.

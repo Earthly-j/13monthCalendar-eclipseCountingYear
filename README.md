@@ -52,7 +52,7 @@ A total solar eclipse takes an average of 360 to 410 years = one dynasty
 ### language shift
 • 300 Years: Speakers can usually understand the text or speech with some effort \
 • 500 Years: Comprehension drops significantly. Grammar structures shift, and vocabulary changes \
-= averagely 400 year to what i use language can be understand ? (after that someone need to translate that) 
+= averagely 400 year to what i use language can be changed ? (after that someone need to translate that) 
 
 ### Gregorian leap cycle	
 exactly 400 years = 146,097 days, 97 leap days	Calendar arithmetic — the rule that keeps the date aligned with the tropical year 10

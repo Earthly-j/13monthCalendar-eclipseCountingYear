@@ -21,7 +21,7 @@ Throughout the 1920s and early 1930s, the movement nearly became US law:
 
 
 # Eclipse(Moon) counting Year system (月歴)
-<img width="200" height="223" alt="053-15fh6" src="https://github.com/user-attachments/assets/76b88ee5-9ca2-400a-9a32-7d8709b95042" />
+<img width="100" height="100"  src="https://github.com/user-attachments/assets/76b88ee5-9ca2-400a-9a32-7d8709b95042" />
 
 
 
